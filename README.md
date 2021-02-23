@@ -1,12 +1,9 @@
 # HOT TAKES #
 
 ## Installation ##
-Clone this repo, run `npm install`.
-
-## Usage ##
-
-Run `npm start`. This should both run the local server and launch your browser.
-
-If your browser fails to launch, or shows a 404 error, navigate your browser to http://localhost:8080.
-
-Use `Ctrl+C` in the terminal to stop the local server.
+Pull the front-end app code from this project repo and take the following steps:
+1. Clone repo
+2. Open a terminal (Linux/Mac) or command prompt/PowerShell (Windows)
+3. Run npm install from within the project directory
+4. Run npm start
+5. Run your API on http://localhost:3000
